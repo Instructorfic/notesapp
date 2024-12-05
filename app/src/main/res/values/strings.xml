@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">NotesApp</string>
+    <!-- Strings para la actividad principal -->
+    <string name="app_name">Notas</string>
+    <string name="add_note">Agregar Nota</string>
+    <string name="category">Categoría</string>
+    <string name="description">Descripción</string>
+    <string name="title">Título</string>
+    <string name="select_category">Seleccionar Categoría</string>
+    <string name="save_note">Guardar Nota</string>
+    <string name="empty_category">No hay categorías</string>
+
+    <!-- Strings para el modo oscuro -->
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="light_mode">Modo Claro</string>
+
+    <!-- Strings para la actividad de agregar/editar notas -->
+    <string name="note_title_hint">Ingresa el título de la nota</string>
+    <string name="note_description_hint">Ingresa la descripción de la nota</string>
+    <string name="category_hint">Selecciona una categoría</string>
+    <string name="note_save">Guardar</string>
+
+    <string name="notes_size">Mis notas: %1d</string>
+    <string name="add_note_title">Agregar nota</string>
+    <string name="edit_note_title">Editar Nota</string>
+    <string name="btn_update_note">Guardar</string>
+    <string name="et_edit_content_note">Contenido</string>
+    <string name="et_edit_title_note">Título</string>
+    <string name="tv_add_note_title">Añadir Nota</string>
+    <string name="et_note_title">Título</string>
+    <string name="et_note_content">Contenido</string>
+    <string name="btn_save_note">Guardar Nota</string>
+    <string name="tv_preferences">Preferencias</string>
+    <string name="sw_dark_mode">Modo Oscuro</string>
+    <string name="item_note_title">Note Title</string>
+    <string name="item_note_content">This is the content of the note...</string>
+    <string name="item_note_category">Category</string>
 </resources>

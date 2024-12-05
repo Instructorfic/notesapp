@@ -37,7 +37,19 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+    // Room Database Dependencies
+    implementation(libs.room.runtime)
+    implementation(libs.swiperefreshlayout)  // Versión de Room
+    annotationProcessor(libs.room.compiler) // Para Java
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation(libs.recyclerview)
+    implementation(libs.cardview)
+    implementation(libs.retrofit)
+    implementation(libs.gson)
+    implementation(libs.converter.gson)
+
+
+
 }
